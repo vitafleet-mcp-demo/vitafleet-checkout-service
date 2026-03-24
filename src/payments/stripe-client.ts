@@ -224,3 +224,4 @@ export class StripeClient {
 
 // Export singleton instance
 export const stripeClient = new StripeClient();
+// Stripe v3 migration complete
